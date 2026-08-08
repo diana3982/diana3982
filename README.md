@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA7DF9,1a1a2e&height=120&section=header" width="100%"/>
 
-# hi, i'm Diana 🕊️✨
+# hi, i'm diana 🔮🪩✨
 
 ### Senior Software Engineer · El Paso, TX · Building Responsibly with AI
 
@@ -97,7 +97,7 @@ Built with Python, Flask, and the Anthropic API — featuring a dual-model archi
 
 ## what i'm listening to rn 🎧
 
-*currently locked in with trance → drum & bass → dubstep. don't talk to me.*
+*currently locked in to ...*
 
 <div align="center">
 
