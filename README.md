@@ -2,11 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA7DF9,1a1a2e&height=120&section=header" width="100%"/>
 
-# hi, i'm diana 🔮🪩✨
+# hi, i'm diana 🙂🪩✨
 
-### building ethical software (yes, on purpose) · EPTX · remote, and thriving
+### building ethical software (yes, on purpose) 
+### 📍 EPTX · remote, and thriving
 
-started customizing Neopets pages and decorating my MySpace. somewhere along the way, "get off the computer" became a career. look mom, i made it!! 👀
+started customizing neopets pages and decorating my myspace profile. 
+somewhere along the way, "get off the computer" morphed into a career. 
+
+look mom, i made it!! 🤪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianajuarezz)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=CA7DF9)](https://github.com/diana3982)
@@ -34,7 +38,7 @@ started customizing Neopets pages and decorating my MySpace. somewhere along the
 diana = {
     "pronouns":     "she/her",
     "based_in":     "El Paso, TX — or anywhere with a secure wifi connection 💻",
-    "day_job":      "Senior Software Engineer @ Shutterfly",
+    "day_job":      "senior software engineer @ Shutterfly",
     "currently":    "building Columba 🕊️ — peep the pinned repo for an exclusive look",
     "superpower":   "making complex systems make sense (what, like it's hard?) 🤭",
     "therapy":      "actively in my healing era (yes it's working. mostly.) 😅",
@@ -131,7 +135,7 @@ curious? peep the repo. 👀
 
 *"dude, suckin' at something is the first step to being sorta good at something." — jake the dog* 🐶
 
-🕊️ · 💗 · ✨
+ ✌🏽 · 💗 · ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA7DF9,1a1a2e&height=120&section=footer" width="100%"/>
 
