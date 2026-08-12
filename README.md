@@ -4,9 +4,9 @@
 
 # hi, i'm diana 🔮🪩✨
 
-### Senior Software Engineer · El Paso, TX · Building Responsibly with AI
+### building ethical software (yes, on purpose) · EPTX · remote, and thriving
 
-**(Neopets + MySpace) × a little bit of pixie dust = whatever THIS is**
+started customizing Neopets pages and decorating my MySpace. somewhere along the way, "get off the computer" became a career. look mom, i made it!! 👀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianajuarezz)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=CA7DF9)](https://github.com/diana3982)
@@ -17,9 +17,12 @@
 
 <div align="center">
 
-### 🔍 I write code like I'm solving a mystery.
-### 🫖 Fueled by tea and drum & bass.
-### 🦇 Trying to be Elvira. Actually Tina Belcher. 
+### 🔍 part engineer, part detective — no bug is safe. doing rihanna in ocean's 8 proud.
+### 🧠 fueled by whatever tea feels right and whatever bpm my brain needs today. the commitment to the bit remains the same.
+### 🎮 fortnite drops a new chapter.
+### &nbsp;&nbsp;&nbsp;&nbsp;🎀 ohmigoshhhh the new skins!!
+### &nbsp;&nbsp;&nbsp;&nbsp;🤓 "...wait, was that a bug? i wonder when they realize that workflow is broken."
+### &nbsp;&nbsp;&nbsp;&nbsp;it's called duality.
 
 </div>
 
@@ -30,14 +33,14 @@
 ```python
 diana = {
     "pronouns":     "she/her",
-    "based_in":     "El Paso, TX 🌮",
+    "based_in":     "El Paso, TX — or anywhere with a secure wifi connection 💻",
     "day_job":      "Senior Software Engineer @ Shutterfly",
-    "currently":    "Building Columba 🕊️ — an AI companion for anyone who needs a safe place to land",
-    "superpower":   "Making complex systems make sense (and look good doing it)",
-    "therapy":      "4 years strong 💛",
-    "non_tech":     ["tea girlie 🫖", "music 🎧", "people watching 👀", "aesthetics ✨"],
-    "origin_story": "Neopets → MySpace → somehow here",
-    "ask_me_about": ["Python", "Flask", "responsible AI", "why your system keeps breaking at 2am"]
+    "currently":    "building Columba 🕊️ — peep the pinned repo for an exclusive look",
+    "superpower":   "making complex systems make sense (what, like it's hard?) 🤭",
+    "therapy":      "actively in my healing era (yes it's working. mostly.) 😅",
+    "non_tech":     ["hiking, camping & outdoor resets with the dogs 🐾🏕️", "video games 🎮", "lost in a fantasy or thriller novel 📚", "checking the lunar calendar — is the code buggy or is mercury in retrograde? 😵‍💫"],
+    "origin_story": "Neopets → MySpace → Tumblr → somehow here 🤷🏽‍♀️",
+    "ask_me_about": ["my holy trinity of pop divas 🎤", "ethical tech & why it matters 🌱", "who is my starter pokemon? 🎮", "let's collab on something that makes a difference 🤝"]
 }
 ```
 
@@ -45,13 +48,13 @@ diana = {
 
 ## what i actually care about
 
-🧠 **Building WITH AI, not just using it** — I work with LLMs critically, validate outputs, and own what I ship.
+🧠 **building WITH ai, not just vibing with it** — i use LLMs critically, validate the outputs with real use cases, and own what i ship. "the ai said so" is so cringe.
 
-🌱 **Responsible tech** — Psychological impact, environmental cost, equity of access, business integrity. All of it matters.
+🌱 **responsible tech, for real though** — the psychological impact, the environmental cost, who has access and who doesn't. all of it matters. all of it is connected. let's maintain our humanity.
 
-💛 **Technology that serves people** — LGBTQ+ safety, youth mental health, animal welfare, environmental sustainability. If the work doesn't help someone, I'm not that interested.
+💛 **technology that actually serves people** — technology should empower and amplify. not replace our humanity. we're not there yet and i'd like to keep it that way.
 
-🔒 **Clean, readable, purposeful code** — If it's not pleasant to look at, we're not done yet.
+🔒 **clean, readable, purposeful code** — if it's not easy to read, understand, AND look at, we're not done yet. yes, i will refactor. sorry, not sorry.
 
 ---
 
@@ -60,13 +63,17 @@ diana = {
 ### 🕊️ Columba
 > *An AI-powered emotional support companion. Not therapy. Not a hotline. Something in between.*
 
-Built with Python, Flask, and the Anthropic API — featuring a dual-model architecture, dynamic quirks system, and trauma-informed design baked in from day one.
+sometimes you just need to vent to someone who gets it. that's Columba. personalized, thoughtful, and built with care.
+
+curious? peep the repo. 👀
 
 [![Columba](https://img.shields.io/badge/🕊️_Columba-a_safe_place_to_land-CA7DF9?style=for-the-badge&labelColor=1a1a2e)](https://github.com/diana3982/diana-does-ai)
 
 ---
 
 ## tech i vibe with
+
+### clocked in 👩🏽‍💻
 
 <div align="center">
 
@@ -81,15 +88,28 @@ Built with Python, Flask, and the Anthropic API — featuring a dual-model archi
 
 </div>
 
+### out of office 🧚🏽‍♀️
+
+<div align="center">
+
+![Canva](https://img.shields.io/badge/🎨_canva-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+![Pinterest](https://img.shields.io/badge/📌_pinterest-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+![TimePassages](https://img.shields.io/badge/🌙_timepassages-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+![SoundCloud](https://img.shields.io/badge/🎵_soundcloud-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+![Finch](https://img.shields.io/badge/🐣_finch-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+![Twitch](https://img.shields.io/badge/📺_twitch-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+![Wordle](https://img.shields.io/badge/🟨_wordle-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+![AllTrails](https://img.shields.io/badge/🥾_alltrails-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
+
+</div>
+
 ---
 
 ## github stats
 
 <div align="center">
 
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=diana3982&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=CA7DF9&icon_color=CA7DF9&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diana3982&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=CA7DF9&text_color=ffffff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=diana3982&theme=midnight-purple&hide_border=true&background=1a1a2e&stroke=CA7DF9&ring=CA7DF9&fire=CA7DF9&currStreakLabel=CA7DF9&sideLabels=ffffff&dates=ffffff&sideNums=CA7DF9&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -97,7 +117,7 @@ Built with Python, Flask, and the Anthropic API — featuring a dual-model archi
 
 ## what i'm listening to rn 🎧
 
-*currently locked in to ...*
+📣 unveiling today's vibe....
 
 <div align="center">
 
@@ -109,7 +129,7 @@ Built with Python, Flask, and the Anthropic API — featuring a dual-model archi
 
 <div align="center">
 
-*"Good code isn't enough. It has to be built right, tested thoroughly, and worth building in the first place."*
+*"dude, suckin' at something is the first step to being sorta good at something." — jake the dog* 🐶
 
 🕊️ · 💗 · ✨
 
