@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9796F0,1a1a2e&height=120&section=header" width="100%"/>
 
 # hi, i'm diana 🙂🪩✨
 
@@ -132,6 +132,6 @@ curious? peep the repo. 👀
 
  ✌🏽 · 💗 · ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient%&reversal=false&descAlignY=61&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9796F0,1a1a2e&height=120&section=footer" width="100%"/>
 
 </div>
