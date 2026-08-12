@@ -48,11 +48,11 @@ diana = {
 
 ## what i actually care about
 
-🧠 **building WITH AI, not just vibing with it** — i use LLMs critically, validate the outputs with real use cases, and own what i ship. "the AI said so" is so cringe.
+🧠 **building WITH AI, not just vibing with it** — i use LLMs critically, validate the outputs with real use cases, and own what i ship. because honestly hearing, "the AI said so," is so cringe.
 
 🌱 **responsible tech, for real though** — the psychological impact, the environmental cost, who has access and who doesn't. all of it matters. all of it is connected. let's maintain our humanity.
 
-💛 **technology that actually serves people** — technology should empower and amplify. not replace our humanity. we're not there yet and i'd like to keep it that way.
+💛 **technology that actually serves people** — technology should empower and amplify. not replace what makes us human. we're not there yet and i'd like to keep it that way.
 
 🔒 **clean, readable, purposeful code** — if it's not easy to read, understand, AND look at, we're not done yet. yes, i will refactor. sorry, not sorry.
 
