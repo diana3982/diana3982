@@ -48,7 +48,7 @@ diana = {
 
 ## what i actually care about
 
-🧠 **building WITH ai, not just vibing with it** — i use LLMs critically, validate the outputs with real use cases, and own what i ship. "the ai said so" is so cringe.
+🧠 **building WITH AI, not just vibing with it** — i use LLMs critically, validate the outputs with real use cases, and own what i ship. "the ai said so" is so cringe.
 
 🌱 **responsible tech, for real though** — the psychological impact, the environmental cost, who has access and who doesn't. all of it matters. all of it is connected. let's maintain our humanity.
 
