@@ -7,7 +7,7 @@
 ### building ethical software (yes, on purpose) 
 ### 📍 EPTX · remote, and thriving
 
-started customizing neopets pages and decorating my myspace profile.\ 
+started customizing neopets pages and decorating my myspace profile. <br> 
 somewhere along the way, "get off the computer" morphed into a career. 
 
 look mom, i made it!! 🤪
