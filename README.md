@@ -132,6 +132,6 @@ curious? peep the repo. 👀
 
  ✌🏽 · 💗 · ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14&reversal=false&descAlignY=55&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14&reversal=false&descAlignY=55&section=footer" width="100%"/>
 
 </div>
