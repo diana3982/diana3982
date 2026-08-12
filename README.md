@@ -22,11 +22,11 @@ look mom, i made it!! 🤪
 <div align="center">
 
 ### 🔍 part engineer, part detective — no bug is safe. doing rihanna in ocean's 8 proud.
-### 🧠 fueled by whatever tea feels right and whatever bpm my brain needs today. the commitment to the bit remains the same.
+### 🧠 fueled by whatever tea feels right and whatever bpm my brain needs today. 
 ### 🎮 fortnite drops a new chapter.
-### &nbsp;&nbsp;&nbsp;&nbsp;🎀 ohmigoshhhh the new skins!!
-### &nbsp;&nbsp;&nbsp;&nbsp;🤓 "...wait, was that a bug? i wonder when they realize that workflow is broken."
-### &nbsp;&nbsp;&nbsp;&nbsp;it's called duality.
+>   🎀 ohmigoshhhh the new skins!!
+>   🤓 "...wait, was that a bug? i wonder when they realize that workflow is broken."
+> it's called duality.
 
 </div>
 
@@ -99,7 +99,6 @@ curious? peep the repo. 👀
 ![Canva](https://img.shields.io/badge/🎨_canva-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![Pinterest](https://img.shields.io/badge/📌_pinterest-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![TimePassages](https://img.shields.io/badge/🌙_timepassages-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
-![SoundCloud](https://img.shields.io/badge/🎵_soundcloud-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![Finch](https://img.shields.io/badge/🐣_finch-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![Twitch](https://img.shields.io/badge/📺_twitch-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![Wordle](https://img.shields.io/badge/🟨_wordle-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
