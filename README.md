@@ -7,7 +7,7 @@
 ### building ethical software (yes, on purpose) 
 ### 📍 EPTX · remote, and thriving
 
-started customizing neopets pages and decorating my myspace profile. 
+started customizing neopets pages and decorating my myspace profile.\ 
 somewhere along the way, "get off the computer" morphed into a career. 
 
 look mom, i made it!! 🤪
@@ -23,10 +23,6 @@ look mom, i made it!! 🤪
 
 ### 🔍 part engineer, part detective — no bug is safe. doing rihanna in ocean's 8 proud.
 ### 🧠 fueled by whatever tea feels right and whatever bpm my brain needs today. 
-### 🎮 fortnite drops a new chapter.
->   🎀 ohmigoshhhh the new skins!!
->   🤓 "...wait, was that a bug? i wonder when they realize that workflow is broken."
-> it's called duality.
 
 </div>
 
