@@ -93,7 +93,6 @@ curious? peep the repo. 👀
 <div align="center">
 
 ![Canva](https://img.shields.io/badge/🎨_canva-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
-![Pinterest](https://img.shields.io/badge/📌_pinterest-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![TimePassages](https://img.shields.io/badge/🌙_timepassages-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![PlayStation](https://img.shields.io/badge/%F0%9F%8E%AE_PlayStation-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
 ![NintendoSwitch](https://img.shields.io/badge/%F0%9F%91%BE_Nintendo_Switch-1a1a2e?style=for-the-badge&logoColor=CA7DF9)
