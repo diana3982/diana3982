@@ -69,6 +69,16 @@ curious? peep the repo. 👀
 
 [![Columba](https://img.shields.io/badge/🕊️_Columba-a_safe_place_to_land-CA7DF9?style=for-the-badge&labelColor=1a1a2e)](https://github.com/diana3982/diana-does-ai)
 
+### 🎄 Fleece Knobby Dot
+> *Say it out loud. Fast. 😉*
+
+a gift-exchange app for families who choose violence. a live gift-stealing
+board for virtual white elephants, plus a secret santa draw that's provably
+fair (and keeps the organizer in the dark, as it should be). built to work for
+everyone from 16 to 94. 🎁
+
+![Fleece Knobby Dot](https://img.shields.io/badge/🎄_Fleece_Knobby_Dot-grand_unveiling_soon!-CA7DF9?style=for-the-badge&labelColor=1a1a2e)
+
 ---
 
 ## tech i vibe with
