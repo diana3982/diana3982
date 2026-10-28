@@ -72,7 +72,7 @@ curious? peep the repo. 👀
 ### 🎄 Fleece Knobby Dot
 > *Say it out loud. Fast. 😉*
 
-a gift-exchange app for families who choose violence. a live gift-stealing
+an app to make gift exchanges a little less stressful. a live gift-stealing
 board for virtual white elephants, plus a secret santa draw that's provably
 fair (and keeps the organizer in the dark, as it should be). built to work for
 everyone from 16 to 94. 🎁
